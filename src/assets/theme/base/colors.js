@@ -1,23 +1,4 @@
-/**
-=========================================================
-* Admin Dashboard React - v3.1.0
-=========================================================
 
-* Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-pro-react
-* Copyright 2023 Esha (https://www.creative-tim.com)
-
-Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-*/
-
-/**
- * The base colors for the Admin Dashboard React.
- * You can add new color using this file.
- * You can customized the colors for the entire Admin Dashboard React using thie file.
- */
 
 const colors = {
   background: {
